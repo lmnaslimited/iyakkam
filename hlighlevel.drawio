@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T09:07:46.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="25lBi_CxUa0bnuCcQUZm" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T10:12:54.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="NcGPskopz6hZq4uh147Y" version="15.9.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="943" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1347" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="raxthA5aU1QFH78hSA78-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="raxthA5aU1QFH78hSA78-4" target="raxthA5aU1QFH78hSA78-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="raxthA5aU1QFH78hSA78-4" value="Karuvigal" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="200" height="200" as="geometry" />
         </mxCell>
@@ -16,6 +21,9 @@
         <mxCell id="raxthA5aU1QFH78hSA78-6" value="App Templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="raxthA5aU1QFH78hSA78-4">
           <mxGeometry x="20" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="raxthA5aU1QFH78hSA78-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="raxthA5aU1QFH78hSA78-7" target="raxthA5aU1QFH78hSA78-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="raxthA5aU1QFH78hSA78-7" value="UI Builder" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="200" height="200" as="geometry" />
         </mxCell>
@@ -27,6 +35,9 @@
         </mxCell>
         <mxCell id="raxthA5aU1QFH78hSA78-11" value="Mautic" style="whiteSpace=wrap;html=1;" vertex="1" parent="raxthA5aU1QFH78hSA78-9">
           <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="raxthA5aU1QFH78hSA78-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="raxthA5aU1QFH78hSA78-12" target="raxthA5aU1QFH78hSA78-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="raxthA5aU1QFH78hSA78-12" value="LENSComm" style="swimlane;horizontal=0;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="640" y="190" width="110" height="90" as="geometry" />
@@ -44,7 +55,10 @@
           <mxGeometry x="570" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="raxthA5aU1QFH78hSA78-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;rotation=-180;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="raxthA5aU1QFH78hSA78-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_git-128.png" vertex="1" parent="1">
+          <mxGeometry x="435" y="320" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
