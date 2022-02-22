@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T13:34:09.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Tiuimx9z58hYeXvXQMZm" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T13:34:51.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HuH6n78UNF0ELBk52aHS" version="16.6.2" type="github">
   <diagram id="81j5qah-35toSOrjM9Ve" name="Page-1">
     <mxGraphModel dx="1345" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,15 @@
         </mxCell>
         <mxCell id="f040Nq-vHdsUplxB2Cle-8" value="Check out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="920" width="142" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f040Nq-vHdsUplxB2Cle-17" value="Store Front" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="460" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="f040Nq-vHdsUplxB2Cle-18" value="Account Login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="466.5" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f040Nq-vHdsUplxB2Cle-19" value="Account Creation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="472" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
